@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>borderless.qml</file>
+        <file>bordered.qml</file>
+    </qresource>
+</RCC>

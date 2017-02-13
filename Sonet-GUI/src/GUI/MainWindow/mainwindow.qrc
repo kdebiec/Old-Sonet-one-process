@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ChatCard.qml</file>
+        <file>ChatMsgDelegate.qml</file>
+        <file>CommentDelegate.qml</file>
+        <file>Content.qml</file>
+        <file>DialogExit.qml</file>
+        <file>DragTile.qml</file>
+        <file>DropTile.qml</file>
+        <file>FriendListDelegate.qml</file>
+        <file>LeftBar.qml</file>
+        <file>PostView.qml</file>
+        <file>RightBar.qml</file>
+        <file>SettingsDialog.qml</file>
+        <file>SideImg.qml</file>
+        <file>TextArea.qml</file>
+        <file>TextAreaStyle.qml</file>
+        <file>UserAddDialog.qml</file>
+        <file>CreateIdentity.qml</file>
+        <file>CallCard.qml</file>
+        <file>PgpListDelegate.qml</file>
+        <file>ChatCardPGP.qml</file>
+        <file>CallCardPGP.qml</file>
+        <file>MainGUI.qml</file>
+        <file>Borderless.qml</file>
+    </qresource>
+</RCC>
